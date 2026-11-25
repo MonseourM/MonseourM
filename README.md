@@ -18,7 +18,7 @@ The name is derived from the splendid project [Navidrome](https://www.navidrome.
 
 * [NaviPlayer Pro](https://github.com/MonseourM/NaviPlayer-Pro): This is the best (and only lwk) media player I have. It's not the best, and probably isn't by a mile and a half, but I tried. It will be deleted soon in favor of NaviOS.
 
-* [NaviWriter Pro Max](https://github.com/MonseourM/NaviWriter-Pro-Max): This is my most well-developed project, alongside NaviPlayer Pro. It's a novelist writer—think Reedsy and Scrivener smashed together at three hundred miles per hour. It will be deleted soon in favor of NaviOS.
+* [NaviWriter Pro Max](https://github.com/MonseourM/NaviWriter): This is my most well-developed project, alongside NaviPlayer Pro. It's a novelist writer—think Reedsy and Scrivener smashed together at three hundred miles per hour. It will be deleted soon in favor of NaviOS.
 
 ---
 
