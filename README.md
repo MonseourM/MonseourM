@@ -2,24 +2,23 @@
 
 If I'm being completely honest, I have very little idea about what I'm doing.
 
-All of my projects, while human-led and directed, are not made by me. They were coded with AI, and though I lead them creatively, I did little to nothing when it came to writing the code. Even the READMEs of my projects were AI-written, edited and looked over by a human. This one, though, is really me, don't worry.
+My projects, while human-led and directed, are not made by me. They were coded with AI, and though I lead them creatively, I did little to nothing when it came to writing the code. Even the READMEs of my projects were AI-written, edited and looked over by a human. This one, though, is really me, don't worry.
 
 Or *should* you?
 
 Nah, I'm just joking.
 
-I have several projects, none of which I actively plan to maintain, but they all fall under the umbrella of the **Navi Suite**.
+I have one major project, which I don't actively plan to maintain, but it falls under the umbrella of the **Navi Suite**.
 
 ### The Navi Suite
 
-The name is derived from the splendid project [Navidrome](https://www.navidrome.org/) (you should check it out), but please note that I have no affiliation with them, I do not use any of their code, and if we're being honest, Navidrome is far better than any of my projects.
+The name is derived from the splendid project [Navidrome](https://www.navidrome.org/) (you should check it out), but please note that I have no affiliation with them. I do not use any of their code, and if we're being honest, Navidrome is far better than any of my projects.
 
-* [NaviPlayer Pro](https://github.com/MonseourM/NaviPlayer-Pro): This is the best media player I have. It's not the best, and probably isn't by a mile and a half, but I tried.
-* [Navidrome Lite NaviPlayer Hub Edition](https://github.com/MonseourM/Navidrome-Lite-NaviPlayer-Hub-Edition): This is a mish-mash of Navidrome Lite and NaviPlayer. NaviPlayer Pro is the refined and rebuilt version of this.
-* [Navidrome Lite](https://github.com/MonseourM/Navidrome-Lite): This is the music-specific part of the player. This was refined in NaviPlayer Pro.
-* [NaviPlayer](https://github.com/MonseourM/NaviPlayer): This is the video-centric part of the player. Far more refined by a longshot in NaviPlayer Pro.
-* [NaviWriter Pro Max](https://github.com/MonseourM/NaviWriter-Pro-Max): This is my most well-developed project, alongside NaviPlayer Pro. It's a novelist writer—think Reedsy and Scrivener smashed together at three hundred miles per hour.
-* [Comfort Browser](https://github.com/MonseourM/Comfort-Browser): This is a *very* rudimentary tool that's intended to provide you the tools your browser doesn't have in a 'convenient' way. Thus the Comfort in the title. However, it doesn't work the best and there are some bugs. I might start working on it again, though.
+* [NaviOS](https://github.com/MonseourM/NaviOS): This is my biggest project. It's supposed to consolidate my other projects and unite them under one banner, and serve as a jumping off point for most (if not all) future projects. It's not a real OS though, it's just supposed to be a 'tools you never knew you needed' type of thing.
+
+* [NaviPlayer Pro](https://github.com/MonseourM/NaviPlayer-Pro): This is the best (and only lwk) media player I have. It's not the best, and probably isn't by a mile and a half, but I tried. It will be deleted soon in favor of NaviOS.
+
+* [NaviWriter Pro Max](https://github.com/MonseourM/NaviWriter-Pro-Max): This is my most well-developed project, alongside NaviPlayer Pro. It's a novelist writer—think Reedsy and Scrivener smashed together at three hundred miles per hour. It will be deleted soon in favor of NaviOS.
 
 ---
 
